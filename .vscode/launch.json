@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "layout_application",
+            "cwd": "layout_application",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "layout_application (profile mode)",
+            "cwd": "layout_application",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "layout_application (release mode)",
+            "cwd": "layout_application",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
