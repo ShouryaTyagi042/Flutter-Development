@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/my_app/windows/runner",
+    "cmake.configureOnOpen": false
+}
